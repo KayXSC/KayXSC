@@ -25,7 +25,7 @@ Estoy abierto a cualquier propuesta.
 ```
 <!-- [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/886670803234594856)](https://discord.com/users/886670803234594856) -->
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/388422519553654786)]
+![Discord Presence](https://lanyard.cnrad.dev/api/388422519553654786)
     
     
     
