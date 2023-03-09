@@ -13,7 +13,7 @@
 Conocimientos básicos,
 Estoy abierto a cualquier propuesta.
 
-𝗞𝗮𝘆𝗫 𝗦𝗰𝗿𝗶𝗽𝘁𝘀: https://discord.gg/pXnVYmCZBb
+𝗞𝗮𝘆𝗫 𝗦𝗰𝗿𝗶𝗽𝘁𝘀: (https://discord.gg/pXnVYmCZBb)
 
 ```
 
