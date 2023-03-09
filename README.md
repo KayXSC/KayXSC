@@ -39,12 +39,11 @@ Estoy abierto a cualquier propuesta.
     
 <hr>
     
+### Estadisticas de mi perfil !
 
-   ### Estadisticas de mi perfil !
+![Snowflake107](https://github-readme-stats.vercel.app/api?username=neegroo&show_icons=true&theme=tokyonight&hide=["issues"])
 
-![Snowflake107]()
-
-![Snowflake107](https://github-readme-stats.vercel.app/api/top-langs?username=Jaareet&show_icons=true&theme=tokyonight&layout=compact)
+![Snowflake107](https://github-readme-stats.vercel.app/api/top-langs?username=neegroo&show_icons=true&theme=tokyonight&layout=compact)
     
 <hr>
 
