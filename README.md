@@ -31,7 +31,7 @@ Estoy abierto a cualquier propuesta.
 ![Discord Presence](https://lanyard.cnrad.dev/api/388422519553654786)
     
  
- github: @neegroo   
+ github: neegroo   
     
 ```diff
 𝗠𝗶 𝗽𝗮́𝗴𝗶𝗻𝗮 𝘄𝗲𝗯
