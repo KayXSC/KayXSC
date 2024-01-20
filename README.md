@@ -1,52 +1,40 @@
-![Header](./kayxlogo.png)
+<h2 align="left">Hola 👋! Bienvenido a mi GitHub</h2>
 
+###
 
-<h3 align = 'center'>𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝗺𝘆 𝗽𝗿𝗼𝗳𝗶𝗹𝗲</h3>
+<img align="right" height="150" src="https://i.imgur.com/NDXEt8d.png"  />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=cb204c&width=500&lines=Developer-FiveM" />
-</p>
+###
 
-<hr>
-<img align="left" height="250" src="https://imgur.com/a/j3ZnUd3"/>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
-```diff
-@@ • 𝗟𝗼𝗯𝗯𝘆 • @@
+###
 
-Conocimientos básicos,
-Estoy abierto a cualquier propuesta.
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="https://discord.gg/5Kbz6VV7Xk" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="ahernandezk08@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Patreon&logo=patreon&label=&color=F96854&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="patreon logo"  />
+  <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo"  />
+</div>
 
-𝗞𝗮𝘆𝗫 𝗦𝗰𝗿𝗶𝗽𝘁𝘀: https://discord.gg/pXnVYmCZBb
-
-```
-
-<div>
-  <div>
-  
-```diff
-𝗗𝗶𝘀𝗰𝗼𝗿𝗱 𝗣𝗿𝗼𝗳𝗶𝗹𝗲
-```
-<!-- [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/886670803234594856)](https://discord.com/users/886670803234594856) -->
-
-![Discord Presence](https://lanyard.cnrad.dev/api/388422519553654786)
-    
- 
-    
-```diff
-𝗠𝗶 𝗽𝗮́𝗴𝗶𝗻𝗮 𝘄𝗲𝗯
-```
-    
-```diff
-𝗵𝘁𝘁𝗽𝘀://𝗸𝗮𝘆𝘅.𝗲𝘀
-```
-    
-<hr>
-    
-### Estadisticas de mi perfil !
-
-![Snowflake107](https://github-readme-stats.vercel.app/api?username=neegroo&show_icons=true&theme=tokyonight&hide=["issues"])
-
-![Snowflake107](https://github-readme-stats.vercel.app/api/top-langs?username=neegroo&show_icons=true&theme=tokyonight&layout=compact)
-    
-<hr>
-
+###
